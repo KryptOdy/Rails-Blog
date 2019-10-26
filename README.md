@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+![GitHub Logo](/app/assets/images/homepage.png)
